@@ -262,9 +262,4 @@ class Core(object):
 
 
 if __name__ == '__main__':
-    # r = requests.get(BitSrunCore.BASE_URL+"/index_1.html",allow_redirects=False)
-    # print(r.headers)
-    # print(r.status_code)
-    # # print(r.history)
-    # print(r.text)
-    Core.login("3220190791", "FL543216")
+    Core.login("xxxxxxx", "xxxxxxxx")
